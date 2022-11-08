@@ -16,6 +16,7 @@
 
 Добавление файла через интерфейс GitHub и подтягивание изменений в локальный репозиторий с помощью команды git pull. Далее работу локально будем продолжать в VSCode.
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen4.png)
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen5.png)
 
 Получение истории операций при помощи команды git log.
@@ -26,7 +27,9 @@
 
 Создаем новую ветку командой и сразу переходим в нее при помощи команды git checkout -b branch-name. Далее изменяем новый файл и коммитим командами git add ., git commit -m "text".
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen8.png)
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen9.png)
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen10.png)
 
 Переходим в ветку мастер командой get checkout и выполняем слияние с веткой branch1 командой git merge.
@@ -37,10 +40,12 @@
 
 Изменим файл и закоммитим изменения. 
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen13.png)
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen14.png)
 
 Затем снова изменим файл и сделаем коммит.
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen15.png)
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen16.png)
 
 Сделаем откат коммита командой git reset --hard HEAD~1.
