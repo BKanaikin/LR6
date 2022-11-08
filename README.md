@@ -33,31 +33,39 @@
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen10.png)
 
 Переходим в ветку мастер командой get checkout и выполняем слияние с веткой branch1 командой git merge.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen11.png)
 
 Удаляем побочную побочную ветку командой git branch -d.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen12.png)
 
 Изменим файл и закоммитим изменения. 
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen13.png)
 
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen14.png)
 
 Затем снова изменим файл и сделаем коммит.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen15.png)
 
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen16.png)
 
 Сделаем откат коммита командой git reset --hard HEAD~1.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen17.png)
 
 Создадим новую ветку для отчета.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen18.png)
 
 Запушим изменения на удаленный репозиторий командой git push --set-upstream.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen19.png) 
 
 Лог команд.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen20.png)
 
 **Вывод:** я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
