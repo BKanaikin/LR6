@@ -9,6 +9,7 @@
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen1.png)
 
 Настройка имени пользователя и email'a при помощи команд git config --global user.name и git config --global user.email.
+
 ![](https://github.com/BKanaikin/LR6/blob/report/screenshots/screen2.png)
 
 Клонирование удаленного репозитория на компьютер при помощи команды git clone.
